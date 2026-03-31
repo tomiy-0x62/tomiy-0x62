@@ -26,6 +26,8 @@ I'm tomiy-0x62, a Master's degree students in Japan.
 
 ## Other contributions
 
+- [agnocast](https://github.com/tomiy-0x62/agnocast): Contribute to development.
+
 ### bug fix
 - [recisdb-rs](https://github.com/tomiy-0x62/recisdb-rs): Fixed a missing delivery_system configuration issue in DVB device environments.
 
